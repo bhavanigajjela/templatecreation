@@ -1,0 +1,35 @@
+body{
+    color:antiquewhite;
+}
+
+
+
+div.img{
+    padding:20px;
+    position:relative;
+    top:450px;
+    right:300px;
+}
+
+div.exm{
+    color:azure;
+    font-size: medium;
+    position: absolute;
+    bottom:60px;
+    left:580px;
+    text-align: center;
+}
+button{
+    background-color:rgb(93, 105, 105);
+    color: rgb(255, 0, 0);
+}
+div.container.img{
+    position:relative;
+    top:50px;
+    left:150px;
+}
+.div.container3.button{
+    background-color: blue;
+    color: beige;
+}
+
